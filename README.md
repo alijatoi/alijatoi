@@ -1,4 +1,4 @@
-### Hi 👋 I am Anuj!
+### Hi 👋 I am Ali Hassan
 
 I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. 
 
