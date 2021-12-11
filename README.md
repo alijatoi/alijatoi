@@ -16,7 +16,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
  
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/engr_speaks2) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hasandev/)
-[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/user/Anujdutt9/videos)
+
 [![Visits Badge](https://badges.pufler.dev/visits/anujdutt9/anujdutt9?style=for-the-badge)](https://github.com/alijatoi)
 
 </p>
@@ -30,7 +30,7 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=alijatoi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alijatoi9&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alijatoi&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
