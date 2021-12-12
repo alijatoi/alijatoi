@@ -1,4 +1,5 @@
-### Hi 👋 I am Ali Hassan CSE Graduate
+### Hi 👋 I am Ali Hassan 
+#### CSE Graduate
 
 I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. 
 
