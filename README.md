@@ -7,7 +7,6 @@ I am aspiring AI developer who is passionate about deep learning and it's effici
 - ⚡ I’m interested in the area of Artificial Intelligence, Cloud Computing, Cyber Secuirty
 - 🌱 I’m currently in learning phase
 - 👯 I’m always open to meaningful collaborations.
-- 😄 Pronouns: He/His
 - 📫 More details: [Linkedin](https://www.linkedin.com/in/hasandev/)
 
 <details open>
