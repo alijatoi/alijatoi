@@ -1,11 +1,10 @@
 ### Hi 👋 I am Ali Hassan 
 #### CSE Graduate
 
-I am aspiring AI developer who is passionate about deep learning and it's efficient deployment on mobile and low power embedded devices. 
+I am developer who is passionate about learning and implementing new technologies
 
-- 🔭 I’m currently working on Computer Vision and Deep Learning.
-- ⚡ I’m interested in the area of Artificial Intelligence, Cloud Computing, Cyber Secuirty
-- 🌱 I’m currently in learning phase
+- 🔭 Strong Grasp on C/C++, Java, Python, Frontend & Backend Technologies
+- ⚡ I’m interested in the area of Artificial Intelligence, Cloud Computing, Cyber Secuirty, Web Designing and Development
 - 👯 I’m always open to meaningful collaborations.
 - 📫 More details: [Linkedin](https://www.linkedin.com/in/hasandev/)
 
