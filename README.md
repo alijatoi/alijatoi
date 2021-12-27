@@ -1,10 +1,10 @@
 ### Hi 👋 I am Ali Hassan 
-#### CSE Graduate
+
 
 I am developer who is passionate about learning and implementing new technologies
 
-- 🔭 Strong Grasp on C/C++, Java, Python, Frontend & Backend Technologies
-- ⚡ I’m interested in the area of Artificial Intelligence, Cloud Computing, Cyber Secuirty, Web Designing and Development
+- 🔭 Strong Grasp on Front End Technologies, JavaScript Frameworks ( Node.js, React ), Python (Django),  PHP (Laravel) & Databases 
+- ⚡ I’m interested in the area Web Designing and Development, Cloud Computing, Artificial Intelligence & Cyber Secuirty, 
 - 👯 I’m always open to meaningful collaborations.
 - 📫 More details: [Linkedin](https://www.linkedin.com/in/hasandev/)
 
