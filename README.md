@@ -30,7 +30,6 @@ I am developer who is passionate about learning and implementing new technologie
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=alijatoi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&line_height=40">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alijatoi&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
