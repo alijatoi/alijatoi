@@ -12,8 +12,6 @@ I am developer who is passionate about learning and implementing new technologie
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/engr_speaks2) 
- [<img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />](https://facebook.com/jatoihasan) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hasandev/)
 
 [![Visits Badge](https://badges.pufler.dev/visits/alijatoi/alijatoi?style=for-the-badge)](https://github.com/alijatoi)
