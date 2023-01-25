@@ -3,8 +3,7 @@
 
 I am developer who is passionate about learning and implementing new technologies
 
-- 🔭 Strong Grasp on Front End Technologies, JavaScript Frameworks ( Node.js, React ), Python (Django),  PHP (Laravel) & Databases 
-- ⚡ I’m interested in the area Web Designing and Development, Cloud Computing, Artificial Intelligence & Cyber Secuirty, 
+- 🔭 Strong Grasp on Mobile Technologies 
 - 👯 I’m always open to meaningful collaborations.
 - 📫 More details: [Linkedin](https://www.linkedin.com/in/hasandev/)
 
