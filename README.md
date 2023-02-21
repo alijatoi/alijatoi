@@ -14,7 +14,6 @@ I am developer who is passionate about learning and implementing new technologie
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hasandev/)
 
-[![Visits Badge](https://badges.pufler.dev/visits/alijatoi/alijatoi?style=for-the-badge)](https://github.com/alijatoi)
 
 </p>
 
