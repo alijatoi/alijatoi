@@ -3,7 +3,6 @@
 
 I am developer who is passionate about learning and implementing new technologies
 
-- 🔭 Strong Grasp on Mobile Technologies 
 - 👯 I’m always open to meaningful collaborations.
 - 📫 More details: [Linkedin](https://www.linkedin.com/in/hasandev/)
 
