@@ -28,3 +28,5 @@ I am developer who is passionate about learning and implementing new technologie
 </p>
 
 </details>
+
+[![](https://visitcount.itsvg.in/api?id=alijatoi&icon=0&color=0)](https://visitcount.itsvg.in)
