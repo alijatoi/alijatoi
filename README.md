@@ -1,7 +1,7 @@
 ### Hi 👋 I am Ali Hassan 
 
 
-I am Junior Application developer who is passionate about learning and implementing new technologies
+I am Application developer who is passionate about learning and implementing new technologies
 
 - 👯 I’m always open to meaningful collaborations.
 
